@@ -1,2 +1,2 @@
 # LAVC Classwork
-Small projects from CS classes taken at Los Angeles Valley College
+Small projects from intermediate through advanced computer science classes taken at Los Angeles Valley College
